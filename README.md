@@ -29,5 +29,23 @@
 
 ### 2. 1번 규칙을 준수한다. 
 
-## 문제
-- (미정)
+### 3. PR 규칙 `이름: 문제이름 / pr횟수 (생략가능)` 
+> ex) `Hyun: Maximum Depth of Binary Tree / 1차`
+
+
+<br>
+
+# 문제
+
+## 📆 3월 첫째 주
+- ### <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">104. Maximum Depth of Binary Tree</a>
+- ### <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/"> 94. Binary Tree Inorder Traversal </a>
+
+<br>
+
+## 📆 3월 둘째 주
+- ### <a href="https://leetcode.com/problems/reverse-linked-list/">206. Reverse Linked List</a>
+- ### <a href="https://leetcode.com/problems/single-number/">136. Single Number</a>
+- ### <a href="https://leetcode.com/problems/pascals-triangle/">118. Pascal's Triangle</a>
+- ### <a href="https://leetcode.com/problems/majority-element/">169. Majority Element</a>
+- ### <a href="https://leetcode.com/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists</a>
