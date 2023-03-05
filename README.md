@@ -29,9 +29,11 @@
 
 ### 2. 1번 규칙을 준수한다. 
 
-### 3. PR 규칙 `이름: 문제이름 / pr횟수 (생략가능)` 
-> ex) `Hyun: Maximum Depth of Binary Tree / 1차`
+### 3. PR 규칙 `이름: 날짜` 
+> ex) `Hyun: 3월 둘째 주`
 
+### 4. 커밋 규칙  `이름: 문제`
+> ex) `Hyun: Maximum Depth of Binary Tree`
 
 <br>
 
