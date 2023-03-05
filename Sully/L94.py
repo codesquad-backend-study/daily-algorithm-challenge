@@ -12,19 +12,32 @@ class TreeNode:
 # preorder: self -> left -> right
 # postorder: left -> right -> self
 class Solution:
+    # def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+    #     global ret
+    #     ret = []
+    #
+    #     self.inorder(root)
+    #     return ret
+    #
+    # def inorder(self, root: Optional[TreeNode]):
+    #     if not root:
+    #         return
+    #
+    #     self.inorder(root.left)
+    #     ret.append(root.val)
+    #     self.inorder(root.right)
+
+    # Iterative 스택
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        global ret
         ret = []
+        stack = []
+        cur = root
 
-        self.inorder(root)
-        return ret
+        while cur or stack:
+            while cur:
+                stack.append(cur)
+                cur = cur.left
 
-    def inorder(self, root: Optional[TreeNode]):
-        if not root:
-            return
-
-        self.inorder(root.left)
-        ret.append(root.val)
-        self.inorder(root.right)
-
-    # Iterative 스택으로 해보려 했는데 넘 어렵다.. 이건 담에,,
+            cur = stack.pop()
+            ret.append(cur)
+            cur = cur.right
