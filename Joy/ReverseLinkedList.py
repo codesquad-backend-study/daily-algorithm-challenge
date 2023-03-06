@@ -13,4 +13,5 @@ class Solution:
             current.next = before
             before = current
             current = after
+        # 바뀐 head 반환
         return before
