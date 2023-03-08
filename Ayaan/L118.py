@@ -1,10 +1,11 @@
 def generate(numRows):
         result = []
-        if numRows == 1:
-            return [1]
         
         row = [1]
         result.append(row)
+        if numRows == 1:
+            return result
+        
         row = [1,1]
         result.append(row)
         for i in range(2, numRows):
