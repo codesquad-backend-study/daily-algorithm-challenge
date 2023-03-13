@@ -1,4 +1,7 @@
 class Solution:
+    # 로마자 예외: 4, 9, 40, 90, 400, 900
+    # ex) IX: 1 + 8 = 9 -> X가 원래 10인데 -2단계가 된 값인 8로 처리가 됨
+    # 위와 같은 규칙 이용
     def romanToInt(self, s: str) -> int:
         translations = {
             "I": 1,
@@ -17,7 +20,7 @@ class Solution:
             number += translations[char]
         return number
 
-# 천재 (dict() 이용)
+# dict() 이용
 # class Solution:
 #     def romanToInt(self, s: str) -> int:
 #         translations = {
