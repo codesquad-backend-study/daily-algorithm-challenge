@@ -1,33 +1,11 @@
 package Fia;
 
-import java.util.LinkedList;
-import java.util.Queue;
+public class Fia543 { // 최적화 정답
+    int answer = 0; // 멤버 변수를 추가하여 최대 깊이를 구함과 동시에 계속하여 가장 긴 루트를 구하는 것이 매우 빠르다.
 
-public class Fia543 {
     public int diameterOfBinaryTree(TreeNode root) {
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-
-        int answer = 0;
-        while (!queue.isEmpty()) {
-            TreeNode node = queue.poll();
-            answer = Math.max(answer, maxDiameter(node));
-
-            if(node.left != null) queue.offer(node.left);
-            if(node.right != null) queue.offer(node.right);
-        }
+        maxDepth(root);
         return answer;
-    }
-
-    public int maxDiameter(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-
-        int left = maxDepth(root.left);
-        int right = maxDepth(root.right);
-
-        return left + right;
     }
 
     public int maxDepth(TreeNode root) {
@@ -37,6 +15,8 @@ public class Fia543 {
 
         int left = maxDepth(root.left);
         int right = maxDepth(root.right);
+
+        answer = Math.max(answer, left + right); // 최대 깊이를 구하는 메서드와 가장 루트를 구하는 메서드를 하나로 만들어 노드의 수만큼 계산을 수행한다. O(n) : n = 노드의 개수
 
         return Math.max(left, right) + 1;
     }
