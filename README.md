@@ -59,5 +59,5 @@
 - ### <a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a>
 - ### <a href="https://leetcode.com/problems/diameter-of-binary-tree/">543. Diameter of Binary Tree</a>
 - ### <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">121. Best Time to Buy and Sell Stock</a>
-- ### <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">160. Intersection of Two Linked Lists</a>
+- ### <a href="https://leetcode.com/problems/symmetric-tree/">101. Symmetric Tree</a>
 
