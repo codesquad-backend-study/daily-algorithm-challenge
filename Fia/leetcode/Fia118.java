@@ -1,4 +1,4 @@
-package Fia;
+package Fia.leetcode;
 
 import java.util.ArrayList;
 import java.util.List;

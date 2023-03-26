@@ -1,4 +1,4 @@
-package Fia;
+package Fia.leetcode;
 
 public class Fia160 {
     // 풀이 실패

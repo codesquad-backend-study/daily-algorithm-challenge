@@ -1,4 +1,4 @@
-package Fia;
+package Fia.leetcode;
 
 public class Fia283 {
     public void moveZeroes(int[] nums) {

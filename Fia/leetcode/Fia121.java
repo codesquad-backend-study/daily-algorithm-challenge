@@ -1,4 +1,4 @@
-package Fia;
+package Fia.leetcode;
 
 public class Fia121 {
     public int maxProfit(int[] prices) { // 주의 : [2, ..., 11, 1, ..., 9]

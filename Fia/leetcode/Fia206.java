@@ -1,4 +1,4 @@
-package Fia;
+package Fia.leetcode;
 
 public class Fia206 {
     public ListNode reverseList(ListNode head) {
