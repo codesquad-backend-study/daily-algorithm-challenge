@@ -1,4 +1,4 @@
-package Fia;
+package Fia.leetcode;
 
 public class Fia543 { // 최적화 정답
     int answer = 0; // 멤버 변수를 추가하여 최대 깊이를 구함과 동시에 계속하여 가장 긴 루트를 구하는 것이 매우 빠르다.

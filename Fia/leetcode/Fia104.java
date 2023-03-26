@@ -1,4 +1,4 @@
-package Fia;
+package Fia.leetcode;
 
 public class Fia104 { // LeetCode 226번 문제 solution 참고
     public int maxDepth(TreeNode root) {

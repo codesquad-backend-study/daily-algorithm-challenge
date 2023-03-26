@@ -1,4 +1,4 @@
-package Fia;
+package Fia.leetcode;
 
 public class Fia234 {
     public boolean isPalindrome(ListNode head) {

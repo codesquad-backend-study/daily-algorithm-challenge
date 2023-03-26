@@ -1,4 +1,4 @@
-package Fia;
+package Fia.leetcode;
 
 public class Fia21 {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
