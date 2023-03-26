@@ -18,7 +18,6 @@ public class Fia160 {
             pointerA = pointerA != null ? pointerA.next : headB;
             pointerB = pointerB != null ? pointerB.next : headA;
         }
-
         return pointerA;
     }
 }
