@@ -31,5 +31,30 @@ public class Fia1316 { // 그룹 단어 체커
         }
 
         System.out.println(answer);
+
+        // 다른 풀이 // 시간 차이 없음
+        int result = 0;
+        for (int i = 0; i < count; i++) {
+            String w = scanner.next();
+
+            List<Character> group = new ArrayList<>();
+            char previous = '0';
+            for (int j = 0; j < w.length(); j++) {
+                if (previous != w.charAt(j)) {
+                    group.add(w.charAt(j));
+                    previous = w.charAt(j);
+                }
+            }
+
+            int listSize = group.size(); // List의 크기와
+            Set<Character> set = new HashSet<>(group);
+            int setSize = set.size(); // 중복을 제거한 Set의 크기를 비교하여
+
+            if (listSize == setSize) { // 같은 경우 그룹 단어로 판단하여 카운트를 증가시킨다.
+                result++;
+            }
+        }
+
+        System.out.println(result);
     }
 }
