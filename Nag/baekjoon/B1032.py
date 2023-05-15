@@ -11,6 +11,6 @@ for _ in range(cnt):
         answer = list(file)
         continue
     for index in range(len(answer)):
-        if answer[index] != file[index]
+        if answer[index] != file[index]:
             answer[index] = "?"
 print("".join(answer))
