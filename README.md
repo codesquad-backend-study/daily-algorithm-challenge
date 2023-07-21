@@ -164,55 +164,55 @@
  </tr>
  <tr>
     <td align="center">5/31</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/2455">2455번 지능형 기차</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/10610">10610번 30</a></td>
  </tr>
  <tr>
     <td align="center">5/30</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/11723">11723번 집합</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/10816">10816번 숫자 카드 2</a></td>
  </tr>
  <tr>
     <td align="center">5/29</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10988 ">10988번 팰린드롬인지 확인하기</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2309">2309번 일곱 난쟁이</a></td>
  </tr>
  <tr>
     <td align="center">5/26</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10162">10162번 전자레인지</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1764">1764번 듣보잡</a></td>
  </tr>
  <tr>
     <td align="center">5/25</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/2914">2914번 저작권</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1026">1026번 보물</a></td>
  </tr>
  <tr>
     <td align="center">5/24</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/2455">2455번 지능형 기차</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/10815">10815번 숫자 카드</a></td>
  </tr>
  <tr>
     <td align="center">5/23</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/11723">11723번 집합</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1931">1931번 회의실 배정</a></td>
  </tr>
  <tr>
     <td align="center">5/22</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10988 ">10988번 팰린드롬인지 확인하기</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1920">1920번 수 찾기</a></td>
  </tr>
  <tr>
     <td align="center">5/19</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10162">10162번 전자레인지</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1541">1541번 잃어버린 괄호</a></td>
  </tr>
  <tr>
     <td align="center">5/18</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/2914">2914번 저작권</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1181">1181번 단어 정렬</a></td>
  </tr>
  <tr>
     <td align="center">5/17</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/2455">2455번 지능형 기차</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/9012">9012번 괄호</a></td>
  </tr>
  <tr>
     <td align="center">5/16</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/11723">11723번 집합</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2566">2566번 최댓값</a></td>
  </tr>
  <tr>
     <td align="center">5/15</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10988 ">10988번 팰린드롬인지 확인하기</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1032">1032번 명령 프롬프트</a></td>
  </tr>
  <tr>
     <td align="center">5/12</td>
