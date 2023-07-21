@@ -40,43 +40,43 @@
  </tr>
  <tr>
     <td align="center">7/21</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/2455">2455번 지능형 기차</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/3584">3584번 가장 가까운 공통 조상</a></td>
  </tr>
  <tr>
     <td align="center">7/20</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/11723">11723번 집합</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/11437">11437번 LCA</a></td>
  </tr>
  <tr>
     <td align="center">7/19</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10988 ">10988번 팰린드롬인지 확인하기</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2263">2263번 트리의 순회</a></td>
  </tr>
  <tr>
     <td align="center">7/18</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10162">10162번 전자레인지</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/5052">5052번 전화번호 목록</a></td>
  </tr>
  <tr>
     <td align="center">7/17</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10162">10162번 전자레인지</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/9372">9372번 상근이의 여행</a></td>
  </tr>
  <tr>
     <td align="center">7/14</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/2914">2914번 저작권</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1068">1068번 트리</a></td>
  </tr>
  <tr>
     <td align="center">7/13</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/2455">2455번 지능형 기차</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/5639">5639번 이진 검색 트리</a></td>
  </tr>
  <tr>
     <td align="center">7/12</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/11723">11723번 집합</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1967">1967번 트리의 지름</a></td>
  </tr>
  <tr>
     <td align="center">7/11</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10988 ">10988번 팰린드롬인지 확인하기</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/11725">11725번 트리의 부모 찾기</a></td>
  </tr>
  <tr>
     <td align="center">7/10</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10162">10162번 전자레인지</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1991">1991번 트리 순회</a></td>
  </tr>
  <tr>
     <td align="center">6/30</td>
@@ -232,7 +232,7 @@
  </tr>
  <tr>
     <td align="center">5/8</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/10988 ">10988번 팰린드롬인지 확인하기</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/10988">10988번 팰린드롬인지 확인하기</a></td>
  </tr>
  <tr>
     <td align="center">4/27</td>
