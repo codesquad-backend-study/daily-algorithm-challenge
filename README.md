@@ -252,15 +252,15 @@
  </tr>
  <tr>
     <td align="center">4/14</td>
-    <td align="left"><a href="https://leetcode.com/problems/move-zeroes/">문제 머였지</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/3651">3651번 이항 계수</a></td>
  </tr>
  <tr>
     <td align="center">4/13</td>
-    <td align="left"><a href="https://leetcode.com/problems/move-zeroes/">문제 머였지</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1158">1158번 요세푸스 문제</a>, <a href="https://www.acmicpc.net/problem/10773">10773번 제로</a></td>
  </tr>
  <tr>
     <td align="center">4/12</td>
-    <td align="left"><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">문제 머였지</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/7568">7568번 덩치</a>, <a href="https://www.acmicpc.net/problem/1924">1924번 2007년</a></td>
  </tr>
  <tr>
     <td align="center">4/11</td>
