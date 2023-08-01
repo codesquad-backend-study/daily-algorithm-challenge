@@ -39,6 +39,30 @@
     <th align="left">Problem</th>
  </tr>
  <tr>
+    <td align="center">7/31</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/11399">11399번 ATM</a></td>
+ </tr>
+ <tr>
+    <td align="center">7/28</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/16934">16934번 게임 닉네임</a></td>
+ </tr>
+ <tr>
+    <td align="center">7/27</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/14725">14725번 개미굴</a></td>
+ </tr>
+ <tr>
+    <td align="center">7/26</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/11000">11000번 강의실 배정</a></td>
+ </tr>
+ <tr>
+    <td align="center">7/25</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1715">1715번 카드 정렬하기</a></td>
+ </tr>
+ <tr>
+    <td align="center">7/24</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1927">1927번 최소 힙</a>, <a href="https://www.acmicpc.net/problem/11279">11279번 최대 힙</a></td>
+ </tr>
+ <tr>
     <td align="center">7/21</td>
     <td align="left"><a href="https://www.acmicpc.net/problem/3584">3584번 가장 가까운 공통 조상</a></td>
  </tr>
