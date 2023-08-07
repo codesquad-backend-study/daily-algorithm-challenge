@@ -4,35 +4,18 @@ import sys
 
 stone_count, bag_count = map(int, sys.stdin.readline().split())
 
-stones = [tuple(map(int, sys.stdin.readline().rstrip().split())) for _ in range(stone_count)]
+stones = sorted([tuple(map(int, sys.stdin.readline().rstrip().split())) for _ in range(stone_count)])
 bags = sorted([int(sys.stdin.readline()) for _ in range(bag_count)])
 
-heapq.heapify(stones)
+max_price = 0
+heap = []
 
-max_price = [0] * bag_count
+for bag in bags:
+    while stones and stones[0][0] <= bag:
+        carat, price = stones[0]  # 정렬해서 맨 앞에 있는 가장 가벼운 보석
+        heapq.heappush(heap, -price)  # 가격을 음수로 전환하여 저장
+        heapq.heappop(stones)
+    if heap:
+        max_price -= heapq.heappop(heap)  # 가장 큰 가격을 max_price에 더하기
 
-for number, bag in enumerate(bags):
-    heap = []  # (price, carat)
-    passed = []
-
-    while stones:
-        carat, price = heapq.heappop(stones)
-
-        if carat > bag:
-            heapq.heappush(stones, (carat, price))
-            break
-
-        if price > max_price[number]:
-            max_price[number] = price
-
-            if len(heap) == 0:
-                heapq.heappush(heap, (price, carat))
-                continue
-
-            popped = heapq.heappushpop(heap, (price, carat))
-            passed.append((popped[1], popped[0]))
-
-    stones.extend(passed)
-    heapq.heapify(stones)
-
-print(sum(max_price))
+print(max_price)
