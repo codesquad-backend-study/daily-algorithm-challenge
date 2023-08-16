@@ -38,6 +38,54 @@
     <th align="center">Date</th>
     <th align="left">Problem</th>
  </tr>
+<tr>
+    <td align="center">8/16</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2512">2512번 예산</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/15</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2110">2110번 공유기 설치</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/14</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2805">2805번 나무 자르기</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/11</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2437">2437번 저울</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/10</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1449">1449번 수리공 항승</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/9</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1744">1744번 수 묶기</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/8</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2075">2075번 N번째 큰 수</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/7</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1202">1202번 보석 도둑</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/4</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2170">2170번 선 긋기</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/3</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2470">2470번 두 용액</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/2</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/11497">11497번 통나무 건너뛰기</a></td>
+ </tr>
+ <tr>
+    <td align="center">8/1</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1302">1302번 베스트셀러</a></td>
+ </tr>
  <tr>
     <td align="center">7/31</td>
     <td align="left"><a href="https://www.acmicpc.net/problem/11399">11399번 ATM</a></td>
