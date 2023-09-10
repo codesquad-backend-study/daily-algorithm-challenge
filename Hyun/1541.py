@@ -1,7 +1,13 @@
-formula = input().split("-")
-ans = sum(map(int, formula[0].split("+")))
+import re
 
-for each in formula[1:]:
-    ans -= sum(map(int, each.split("+")))
+formula = input()
 
-print(ans)
+numbers = formula.split('-', maxsplit=1)
+
+plus = sum(map(int, numbers[0].split('+')))
+
+minus = 0
+if len(numbers) == 2:
+    minus = sum(map(int, re.split(r'[-+]', numbers[1])))
+
+print(plus - minus)
