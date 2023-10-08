@@ -39,12 +39,40 @@
     <th align="left">Problem</th>
  </tr>
  <tr>
+    <td align="center">10/13</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">베스트앨범</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/12</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/11</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/10</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/9</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬</a></td>
+ </tr>
+ <tr>
+    <td align="center">9/22</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1992">1992번 쿼드트리</a></td>
+ </tr>
+ <tr>
+    <td align="center">9/21</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1780">1780번 종이의 개수</a></td>
+ </tr>
+ <tr>
     <td align="center">9/20</td>
-    <td align="left"><a href="">번</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/1074">1074번 Z</a></td>
  </tr>
  <tr>
     <td align="center">9/19</td>
-    <td align="left"><a href="">번</a></td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2630">2630번 색종이 만들기</a></td>
  </tr>
  <tr>
     <td align="center">9/18</td>
