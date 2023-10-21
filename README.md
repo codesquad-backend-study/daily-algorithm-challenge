@@ -39,6 +39,42 @@
     <th align="left">Problem</th>
  </tr>
  <tr>
+    <td align="center">10/26</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">이중우선순위큐</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/25</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/24</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">더 맵게</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/23</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">주식가격</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/20</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42583">다리를 지나는 트럭</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/19</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/18</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">기능개발</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/17</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/16</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어</a></td>
+ </tr>
+ <tr>
     <td align="center">10/13</td>
     <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">베스트앨범</a></td>
  </tr>
