@@ -13,7 +13,7 @@
   </tr>
   <tr>
 <!--     <td align="center"><a href="https://github.com/n-aa-g"><b>나그</b></td> -->
-    <td align="center"><a href="https://github.com/othertkfka"><b>이안</b></td>
+    <td align="center"><a href="https://github.com/jsjseop"><b>이안</b></td>
     <td align="center"><a href="https://github.com/ghkdgus29"><b>Hyun</b></td>
 <!--     <td align="center"><a href="https://github.com/he2joojo"><b>Joy</b></td> -->
     <td align="center"><a href="https://github.com/yeonise"><b>Fia</b></td>
