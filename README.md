@@ -5,7 +5,7 @@
 <table>
   <tr>
 <!--     <td align="center"><a href="https://github.com/n-aa-g"><img src="https://avatars.githubusercontent.com/u/115922748?v=4" width="110px;" height="110px;" alt=""></td> -->
-    <td align="center"><a href="https://github.com/othertkfka"><img src="https://avatars.githubusercontent.com/u/57559288?v=4" width="110px;" height="110px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jsjseop"><img src="https://avatars.githubusercontent.com/u/57559288?v=4" width="110px;" height="110px;" alt=""></td>
     <td align="center"><a href="https://github.com/ghkdgus29"><img src="https://avatars.githubusercontent.com/u/91525492?v=4" width="110px;" height="110px;" alt=""></td>
 <!--     <td align="center"><a href="https://github.com/he2joojo"><img src="https://avatars.githubusercontent.com/u/121915790?v=4" width="110px;" height="110px;" alt=""></td> -->
     <td align="center"><a href="https://github.com/yeonise"><img src="https://avatars.githubusercontent.com/u/105152276?v=4" width="110px;" height="110px;" alt=""></td>
