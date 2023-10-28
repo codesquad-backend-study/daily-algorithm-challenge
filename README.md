@@ -39,6 +39,30 @@
     <th align="left">Problem</th>
  </tr>
  <tr>
+    <td align="center">11/3</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/2</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/1</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491">최소 직사각형</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/31</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">H-Index</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/30</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a></td>
+ </tr>
+ <tr>
+    <td align="center">10/27</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째 수</a></td>
+ </tr>
+ <tr>
     <td align="center">10/26</td>
     <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">이중우선순위큐</a></td>
  </tr>
