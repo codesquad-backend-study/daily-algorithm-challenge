@@ -1,4 +1,4 @@
-name: "PR Merge on time v3"
+name: "Weekly PR Auto Merge"
 
 on:
   schedule:
@@ -9,10 +9,9 @@ on:
 
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   merge:
-    name: "Auto Merge on time"
+    name: "Auto Merge on Sunday"
     runs-on: "ubuntu-latest"
     
     steps:
