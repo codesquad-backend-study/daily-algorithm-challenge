@@ -39,6 +39,46 @@
     <th align="left">Problem</th>
  </tr>
  <tr>
+    <td align="center">11/17</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42884">단속카메라</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/16</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42861">섬 연결하기</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/15</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">구명보트</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/14</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42883">큰 수 만들기</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/13</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860">조이스틱</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/10</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862">체육복</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/9</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">모음사전</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/8</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971">전력망을 둘로 나누기</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/7</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">피로도</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/6</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">카펫</a></td>
+ </tr>
+ <tr>
     <td align="center">11/3</td>
     <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기</a></td>
  </tr>
