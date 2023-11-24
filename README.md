@@ -39,6 +39,30 @@
     <th align="left">Problem</th>
  </tr>
  <tr>
+    <td align="center">12/1</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/29~30</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42897">도둑질</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/27~28</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1843">사칙연산</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/23~24</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42898">등굣길</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/21~22</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a></td>
+ </tr>
+ <tr>
+    <td align="center">11/20</td>
+    <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42895">N으로 표현</a></td>
+ </tr>
+ <tr>
     <td align="center">11/17</td>
     <td align="left"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42884">단속카메라</a></td>
  </tr>
